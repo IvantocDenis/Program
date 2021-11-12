@@ -1,4 +1,4 @@
-~80%) În aplicații de grafică computerizată, este necesară recunoașterea de forme și aproximarea dimensiunii lor.
+/*~80%) În aplicații de grafică computerizată, este necesară recunoașterea de forme și aproximarea dimensiunii lor.
 
 Cerințe pentru punctaj maxim
 Să se creeze o clasă cu numele Point cu următoarele specificații:
@@ -79,6 +79,7 @@ Două numere floating point f1 și f2 se consideră egale, dacă |1 - f1/f2| < 0
 
 
 --------------------------------
+*/
 #include <iostream>
 #include <string>
 #include <vector>

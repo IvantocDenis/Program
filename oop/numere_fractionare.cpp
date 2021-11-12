@@ -1,4 +1,4 @@
-Se dau de la tastatură un număr necunoscut de mare de perchi de două, trei sau patru numere fracționare reprezentabile cu dublă precizie (până la EOF). Aceste perechi reprezintă numere imaginare de forma a + bi, a+bi+cj sau a+bi+cj+dk. Părțile imaginare din numere au propritetățile i2=-1, j2=-1, k2=-1, i*j=j*i=0, j*k=k*j=0, i*k=k*i=0. Astfel, se pot înmulții numere imaginare, chiar dacă ele sunt de tipuri diferite. Însă, aeastă înmulțire nu este comutativă. Astfel, dacă înmulțim un număr imaginar cu 2 componente cu un număr imaginar cu 3 componente rezultatul va fi un număr imaginar cu 2 componente (a treia componentă nu se ia în calcul), însă dacă înmulțim un număr imaginar cu 3 componente cu un număr imaginar cu 2 componente rezultatul va fi un număr imaginar cu 3 componente. Analog pentru toate celelalte tipuri de înmulțiri.
+/*Se dau de la tastatură un număr necunoscut de mare de perchi de două, trei sau patru numere fracționare reprezentabile cu dublă precizie (până la EOF). Aceste perechi reprezintă numere imaginare de forma a + bi, a+bi+cj sau a+bi+cj+dk. Părțile imaginare din numere au propritetățile i2=-1, j2=-1, k2=-1, i*j=j*i=0, j*k=k*j=0, i*k=k*i=0. Astfel, se pot înmulții numere imaginare, chiar dacă ele sunt de tipuri diferite. Însă, aeastă înmulțire nu este comutativă. Astfel, dacă înmulțim un număr imaginar cu 2 componente cu un număr imaginar cu 3 componente rezultatul va fi un număr imaginar cu 2 componente (a treia componentă nu se ia în calcul), însă dacă înmulțim un număr imaginar cu 3 componente cu un număr imaginar cu 2 componente rezultatul va fi un număr imaginar cu 3 componente. Analog pentru toate celelalte tipuri de înmulțiri.
 
 
 Cerințe pentru punctaj maxim
@@ -57,6 +57,7 @@ Avem 2 numere imaginare, unul cu 2, unul cu 3 și unul cu 4 componente. Le vom l
 Așadar, numărul cu distanța maximă este cel de-al treilea, iar la ieșire se va afișa numărul împreună cu distanța.
 2.000+4.000i+9.000j+6.000k -> 9.495
 -----------------------------
+*/
 #include <iostream>
 #include <math.h>
 #include <vector>

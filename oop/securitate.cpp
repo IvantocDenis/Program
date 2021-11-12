@@ -1,4 +1,4 @@
-În noua aplicație web pe care ați dezvoltat-o este necesară introducerea unor elemente suplimentare de securitate. Pentru asta veți dezvolta o bibliotecă de Password Policies. Aceste politici de parolă sunt configurate de fiecare client care folosește biblioteca voastră și apoi fiecare parola setată de utilizatori este verificată contra acestor reguli. Ele sunt:
+/*În noua aplicație web pe care ați dezvoltat-o este necesară introducerea unor elemente suplimentare de securitate. Pentru asta veți dezvolta o bibliotecă de Password Policies. Aceste politici de parolă sunt configurate de fiecare client care folosește biblioteca voastră și apoi fiecare parola setată de utilizatori este verificată contra acestor reguli. Ele sunt:
 
 Length - restricția poate specifica lungimea minimă sau lungimea minimă și maximă a unei parole.
 Class - restricția spune câte clase diferite de caractere trebuie să aibă minim parola; clasele sunt: literă mică, literă mare, cifră și alte caractere
@@ -101,6 +101,7 @@ OnceUponAtimeinKansas - NOK (are mai mult de 12 caractere, conține doar două t
 1234 - NOK (mai scurtă de 6 caractere, conține doar un tip de caractere și are 4 caractere consecutive în secvență)
 
 --------------------
+*/
 #include <iostream>
 #include <string>
 #include <vector>

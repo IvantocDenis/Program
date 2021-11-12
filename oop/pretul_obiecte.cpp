@@ -1,4 +1,4 @@
-Ați fost angajați să descoperiți care este prețul unor obiecte din diferite case. După un studiu amănunțit, ați făcut o listă cu aceste obiecte și cu prețul lor. În diferite case care se află într-un oraș, pe o stradă și la un anumit număr există un număr de obiecte de valoare. Voi trebuie să calculați care este prețul total al obiectelor din casele care se află pe aceeași stradă și în același oraș.
+/*Ați fost angajați să descoperiți care este prețul unor obiecte din diferite case. După un studiu amănunțit, ați făcut o listă cu aceste obiecte și cu prețul lor. În diferite case care se află într-un oraș, pe o stradă și la un anumit număr există un număr de obiecte de valoare. Voi trebuie să calculați care este prețul total al obiectelor din casele care se află pe aceeași stradă și în același oraș.
 
 Cerințe pentru punctaj maxim
 Să se creeze o clasă cu numele Object cu următoarele specificații:
@@ -44,6 +44,7 @@ Explicație
 Prima casă se află pe strada Pajurei în orașul Bebes la numărul 111. Valoarea totală a obiectelor de valoare din casă este 13+11+1300=1324 lei. Analog pentru casele rămase, suma obiectelor fiind 1349.87, 2121.96 și 7353.47 lei. Se observă că există 2 case care se află pe strada Pajurei din orașul Bebes, astfel suma obiectelor de valoare de pe strada respectivă este  1324+2121.96=3445.96. La ieșire datele au fost ordonate lexicografic după numele străzii (F, O și P).
 
 ///////////////////////
+*/
 #include <iostream>
 #include <vector>
 #include <string>

@@ -1,4 +1,4 @@
-Ați fost puși să administrați baza de date a clădirilor care se află pe o anumită așezare. Va trebui să adăugați clădiri în acea bază de date și să adăugați locuitori, angajați și șefi în acele clădiri, iar la sfârșit o statistică acestor date.
+/*Ați fost puși să administrați baza de date a clădirilor care se află pe o anumită așezare. Va trebui să adăugați clădiri în acea bază de date și să adăugați locuitori, angajați și șefi în acele clădiri, iar la sfârșit o statistică acestor date.
 
 
 Cerințe pentru punctaj maxim
@@ -91,6 +91,7 @@ Pentru a vedea exemple, puteți rula bateria de teste să vă uitați la exemple
 
 
 --------------------------------
+*/
 #include <iostream>
 #include <string>
 #include <vector>

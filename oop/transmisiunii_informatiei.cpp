@@ -1,4 +1,4 @@
-In domeniul transmisiunii informatiei, una din cele mai utilizate mecanisme matematice este acela al vectorului n-dimensional. Vom considera n>1.
+/*In domeniul transmisiunii informatiei, una din cele mai utilizate mecanisme matematice este acela al vectorului n-dimensional. Vom considera n>1.
 
 Cerință
 Să se creeze clasa Vector, implementând conținutul acesteia astfel:
@@ -27,6 +27,7 @@ Observații
 Alocați memorie dinamic pentru pentru mValues, folosind operatorul new. Cel mai simplu (și eficient) este să alocați un array de mDim locații de memorie.
 
 --------------------------
+*/
 #include <iostream>
 #include  <cstdint>
 #include <math.h>

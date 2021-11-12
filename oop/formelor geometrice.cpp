@@ -1,4 +1,4 @@
-Este săptămâna formelor geometrice la grădiniţă. Astăzi copiii au învăţat să deseneze pătrate, dreptunghiuri şi cercuri. Bineînţeles că apare competiţia: cine poate desena cea mai mare formă geometrică? Doamna educatoare este arbitrul şi trebuie să stabilească cine este câştigătorul. O puteţi ajuta?
+/*Este săptămâna formelor geometrice la grădiniţă. Astăzi copiii au învăţat să deseneze pătrate, dreptunghiuri şi cercuri. Bineînţeles că apare competiţia: cine poate desena cea mai mare formă geometrică? Doamna educatoare este arbitrul şi trebuie să stabilească cine este câştigătorul. O puteţi ajuta?
 
 Cerințe pentru punctaj maxim
 Să se creeze o clasă cu numele Shape cu următoarele specificații:
@@ -67,6 +67,7 @@ dreptunghi 9.10 0.40
 patrat 1.50
 
 --------------------------
+ */
 #include <iostream>
 #include <vector>
 #include <string>

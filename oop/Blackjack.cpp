@@ -1,4 +1,4 @@
-O firmă v-a cerut ajutorul pentru a crea un demo al unei aplicații de Blackjack. Blackjack este unul dintre cele mai ușoare jocuri de înțeles cu cărți, regulile fiind următoarele:
+/*O firmă v-a cerut ajutorul pentru a crea un demo al unei aplicații de Blackjack. Blackjack este unul dintre cele mai ușoare jocuri de înțeles cu cărți, regulile fiind următoarele:
 
 Cărțile de la 2 la 10 au valoarea inscripționată pe ele, în timp ce figurile (J,Q,K) au valoarea 10, iar asul (A) poate avea valoarea 1 sau 11.
 Jucătorii joacă împotriva unei persoane care este denumită Dealer și pentru a câștiga ei trebuie să aibă suma cărților mai mare decât cea a dealer-ului. Dacă suma cărților depășește valoarea 21 jucătorul respectiv pierde. Dacă dealer-ul depășește valoarea 21, atunci toată lumea prezentă la masă câștigă, cu excepția celor care au depășit 21 înaintea dealer-ului.
@@ -92,6 +92,7 @@ Pe prima linie se află string-ul corespunzător subpunctului pe care vrem să �
 
 
 ----------------------
+*/
 #include <iostream>
 #include <vector>
 #include <utility>
